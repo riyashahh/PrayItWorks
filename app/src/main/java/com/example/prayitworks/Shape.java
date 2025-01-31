@@ -11,5 +11,5 @@ public abstract class Shape {
 
     public abstract double getArea(); // Abstract method for calculating area
 
-    String color = "orange";
+    String color = "pink";
 }
